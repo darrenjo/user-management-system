@@ -1,0 +1,10 @@
+frontend/
+├── src/
+│   ├── components/
+│   │   ├── Login.js
+│   │   ├── Admin.js
+│   │   ├── Employee.js
+│   ├── App.js
+│   ├── api/
+│   │   └── api.js
+│   ├── index.js
